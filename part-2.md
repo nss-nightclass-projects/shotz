@@ -47,6 +47,7 @@ Sample Location:
 
 ## Technical Requirements
 
+- You should be using promises.
 - You should be using Bootstrap.
 - You should be using jQuery for
   - DOM manipulation
