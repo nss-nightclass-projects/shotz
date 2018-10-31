@@ -8,7 +8,7 @@
   - Each movie card should contain the name, genre, estimated release date, description, and the number of shooting locations.
 - Upon arriving at the homepage, I should see a list of ALL locations that ALL of my movies need, displayed as cards.
   - Each location card should show the image, name, address, shoot time, and number of movies that use that location.
-- As a user, I should be displayed a search bar. This search bar should filter the results of the cards. On keypress, the text I type in the search bar should be contained in the location title text, the location address, or one of the movie names of all cards still displayed.
+- As a user, I should be displayed a search bar. This search bar should filter the results of the cards. On keypress, the text I type in the search bar should be contained in the location title text, or the location address on all cards still displayed.
 - As a user, I should be displayed 4 button options for "time of day." (Options: Morning, Afternoon, Evening, After Dark). These buttons should filter the results down to each location that has a "Time That shot should occur" corresponding to the button clicked.
 
 #### Single Location View
