@@ -23,8 +23,8 @@
         |- helpers
             |- util.js [contains printToDom function]
             |- data
-                |- movieData.js [AJAX call for movie data]
-                |- locationsData.js [AJAX call for locations data]
+                |- movieData.js [Axios call for movie data]
+                |- locationsData.js [Axios call for locations data]
 |- index.html
 |- styles
     |- main.scss [main application styles]
